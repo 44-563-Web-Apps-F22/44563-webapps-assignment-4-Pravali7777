@@ -1,0 +1,112 @@
+.speech{
+    color:black;
+    font-size: 16px;
+    font-family: Georgia;
+}
+.song{
+    color:black;
+    font-size: 14px;
+    font-family: serif;
+}
+.direction{
+    color:black;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+
+}
+.mab{
+    color:aqua;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.mab:hover{
+    background-color: blue;
+}
+.fre{
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Impact;
+}
+.fre:hover{
+    background-color: aquamarine;
+}
+.gen{
+    color: azure;
+    font-size: 16px;
+    font-family: 'Arial Narrow Bold';
+}
+.gen:hover{
+    background-color: beige;
+}
+.gir{
+    color: blanchedalmond;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium';
+}
+.gir:hover{
+    background-color: blueviolet;
+}
+.edi{
+    color:brown;
+    font-size: 13px;
+    font-family: 'Trebuchet MS';
+}
+.edi:hover{
+    background-color: bisque;
+}
+.ser{
+    color: aquamarine;
+    font-size: 18px;
+    font-family: Arial;
+}
+.ser:hover{
+    background-color: antiquewhite;
+}
+.pol{
+    color: gold;
+    font-size: 12px;
+    font-family: Times;
+}
+.pol:hover{
+    background-color: blue;
+}
+.kin{
+    color: maroon;
+    font-size: 17px;
+    font-family: 'Trebuchet MS';
+}
+.kin:hover{
+    background-color: bisque;
+}
+.rut{
+    color: darkmagenta;
+    font-size: 13px;
+    font-family: inherit;
+}
+.rut:hover{
+    background-color: limegreen;
+}
+.all{
+    color: indigo;
+    font-size: 11px;
+    font-family: unset;
+}
+.all:hover{
+    background-color: fuchsia;
+}
+.direction{
+    font-style: oblique;
+    background-color: yellow;
+    color: hotpink;
+}
+.direction:hover{
+    background-color: cyan;
+    color: blueviolet;
+
+}
+.song{
+    font-size: medium;
+    font-display:red;
+    text-decoration: salmon;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
