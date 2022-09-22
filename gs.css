@@ -15,7 +15,7 @@
 
 }
 .mab{
-    color:aqua;
+    color: darkolivegreen;
     font-size: 12px;
     font-family: sans-serif;
 }
@@ -23,23 +23,23 @@
     background-color: blue;
 }
 .fre{
-    color: aliceblue;
+    color: lawngreen;
     font-size: 15px;
     font-family: Impact;
 }
 .fre:hover{
-    background-color: aquamarine;
+    background-color: deepskyblue;
 }
 .gen{
-    color: azure;
+    color: mediumvioletred;
     font-size: 16px;
     font-family: 'Arial Narrow Bold';
 }
 .gen:hover{
-    background-color: beige;
+    background-color: violet;
 }
 .gir{
-    color: blanchedalmond;
+    color: darkorange;
     font-size: 17px;
     font-family: 'Franklin Gothic Medium';
 }
@@ -52,15 +52,15 @@
     font-family: 'Trebuchet MS';
 }
 .edi:hover{
-    background-color: bisque;
+    background-color: darksalmon;
 }
 .ser{
-    color: aquamarine;
+    color: darkorchid;
     font-size: 18px;
     font-family: Arial;
 }
 .ser:hover{
-    background-color: antiquewhite;
+    background-color: lime;
 }
 .pol{
     color: gold;
@@ -76,7 +76,7 @@
     font-family: 'Trebuchet MS';
 }
 .kin:hover{
-    background-color: bisque;
+    background-color: chocolate;
 }
 .rut{
     color: darkmagenta;
@@ -109,4 +109,18 @@
     font-display:red;
     text-decoration: salmon;
     font-family: Georgia, Times, 'Times New Roman', serif;
+}
+table.table
+{
+    color: crimson;
+    text-align: justify;
+    padding: 70px;
+    margin:30px;
+}
+table, th, td {
+    border: 4px dotted;
+  }
+tr:nth-child(even)
+{
+    background-color: khaki;
 }
