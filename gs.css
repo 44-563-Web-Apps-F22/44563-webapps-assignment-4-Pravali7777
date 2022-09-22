@@ -29,6 +29,8 @@
 }
 .fre:hover{
     background-color: deepskyblue;
+    text-shadow: 2px 2px;
+    border-style: solid;
 }
 .gen{
     color: mediumvioletred;
@@ -77,6 +79,8 @@
 }
 .kin:hover{
     background-color: chocolate;
+    text-shadow: 2px 2px;
+    border-style: solid;
 }
 .rut{
     color: darkmagenta;
@@ -85,6 +89,8 @@
 }
 .rut:hover{
     background-color: limegreen;
+    text-shadow: 2px 2px;
+    border-style: solid;
 }
 .all{
     color: indigo;
